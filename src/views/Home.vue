@@ -1,7 +1,7 @@
 <template>
   <div class="home mt-10 flex flex-col p-10">
     <div class="text-6xl w-full text-center mb-10">
-      Boletas
+      Psicol
     </div>
     <div class="boletas">
       <div class="tables flex flex-col">
