@@ -39,9 +39,9 @@
         <table>
           <tr>
             <th class="text-center">ID</th>
-            <th>CITY</th>
-            <th>STATUS</th>
-            <th>ACTIONS</th>
+            <th>Ciudad</th>
+            <th>Estatus</th>
+            <th>Actions</th>
           </tr>
           <tr v-for="titeck of titecks" :key="titeck.id" v-show="!loading_tikect">
             <th class="text-center">{{ titeck.id }}</th>
